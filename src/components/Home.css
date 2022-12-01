@@ -1,0 +1,6 @@
+.home-container {
+  display: inline-flex;
+  padding: 5px 10px;
+  color: #fff;
+  justify-content: center;
+}
